@@ -78,6 +78,7 @@ h4 {
 .clouds {
     width: 100%;
     height: 100%;
+    overflow: hidden;
 }
 
 .cloud {
@@ -86,6 +87,7 @@ h4 {
     top: -30px;
     left: 90vw;
     z-index: 100;
+    overflow: hidden;
     
 
 }
